@@ -1,0 +1,21 @@
+# Core testing
+pytest>=8.0
+pytest-xdist>=3.5
+pytest-html>=4.1
+pytest-metadata>=3.1
+
+# Selenium
+selenium>=4.20
+webdriver-manager>=4.0
+
+# Allure
+allure-pytest>=2.13.5
+
+# API testing
+requests>=2.32
+
+# Utilities
+python-dotenv>=1.0
+
+openpyxl
+allure-python-commons
