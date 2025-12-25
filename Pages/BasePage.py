@@ -2,6 +2,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 
 from Utilities import configReader
+import logging
+from Utilities.LogUtil import Logger
+
+log = Logger(__name__,logging.INFO)
 
 
 class BasePage:
@@ -16,6 +20,8 @@ class BasePage:
         elif str(locator).endswith("_ID"):
             self.driver.find_element(By.ID, configReader.readConfig("locators", locator)).click()
 
+        log.logger.info("Clicking on an element : "+ str(locator))
+
     def type(self,locator,value):
         if str(locator).endswith("_XPATH"):
             self.driver.find_element(By.XPATH,configReader.readConfig("locators",locator)).send_keys(value)
@@ -23,6 +29,8 @@ class BasePage:
             self.driver.find_element(By.CSS_SELECTOR, configReader.readConfig("locators", locator)).send_keys(value)
         elif str(locator).endswith("_ID"):
             self.driver.find_element(By.ID, configReader.readConfig("locators", locator)).send_keys(value)
+
+        log.logger.info("Typing on an element : '" + str(locator) + "' value : " + str(value))
 
     def select(self,locator,value):
         global dropdown
@@ -36,3 +44,5 @@ class BasePage:
 
         select = Select(dropdown)
         select.select_by_visible_text(str(value))
+
+        log.logger.info("Selecting from an element : '" + str(locator) + "' value : " + str(value))

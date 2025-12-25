@@ -1,0 +1,28 @@
+2025-12-25 17:56:18,333 - BasePage.py:[33] - [INFO] - Typing on an element : 'name_CSS' value : didi
+2025-12-25 17:56:18,389 - BasePage.py:[33] - [INFO] - Typing on an element : 'phone_CSS' value : 567890866
+2025-12-25 17:56:18,442 - BasePage.py:[33] - [INFO] - Typing on an element : 'email_XPATH' value : didi@didi.com
+2025-12-25 17:56:18,540 - BasePage.py:[48] - [INFO] - Selecting from an element : 'country_XPATH' value : Canada
+2025-12-25 17:56:18,585 - BasePage.py:[33] - [INFO] - Typing on an element : 'city_XPATH' value : Montreal
+2025-12-25 17:56:18,630 - BasePage.py:[33] - [INFO] - Typing on an element : 'username_XPATH' value : deh
+2025-12-25 17:56:18,931 - BasePage.py:[33] - [INFO] - Typing on an element : 'password_XPATH' value : pa$$word
+2025-12-25 17:56:19,048 - BasePage.py:[23] - [INFO] - Clicking on an element : submit_XPATH
+2025-12-25 17:56:38,090 - test_SignUpTest.py:[21] - [INFO] - Testing Sign Up
+2025-12-25 17:56:38,238 - BasePage.py:[33] - [INFO] - Typing on an element : 'name_CSS' value : didi
+2025-12-25 17:56:38,303 - BasePage.py:[33] - [INFO] - Typing on an element : 'phone_CSS' value : 567890866
+2025-12-25 17:56:38,378 - BasePage.py:[33] - [INFO] - Typing on an element : 'email_XPATH' value : didi@didi.com
+2025-12-25 17:56:38,485 - BasePage.py:[48] - [INFO] - Selecting from an element : 'country_XPATH' value : Canada
+2025-12-25 17:56:38,537 - BasePage.py:[33] - [INFO] - Typing on an element : 'city_XPATH' value : Montreal
+2025-12-25 17:56:38,593 - BasePage.py:[33] - [INFO] - Typing on an element : 'username_XPATH' value : deh
+2025-12-25 17:56:38,647 - BasePage.py:[33] - [INFO] - Typing on an element : 'password_XPATH' value : pa$$word
+2025-12-25 17:56:38,725 - BasePage.py:[23] - [INFO] - Clicking on an element : submit_XPATH
+2025-12-25 17:56:38,725 - test_SignUpTest.py:[24] - [INFO] - Successfully Signed Up
+2025-12-25 17:57:11,542 - test_SignUpTest.py:[21] - [INFO] - Testing Sign Up
+2025-12-25 17:57:11,640 - BasePage.py:[33] - [INFO] - Typing on an element : 'name_CSS' value : didi
+2025-12-25 17:57:11,698 - BasePage.py:[33] - [INFO] - Typing on an element : 'phone_CSS' value : 567890866
+2025-12-25 17:57:11,753 - BasePage.py:[33] - [INFO] - Typing on an element : 'email_XPATH' value : didi@didi.com
+2025-12-25 17:57:11,848 - BasePage.py:[48] - [INFO] - Selecting from an element : 'country_XPATH' value : Canada
+2025-12-25 17:57:12,083 - BasePage.py:[33] - [INFO] - Typing on an element : 'city_XPATH' value : Montreal
+2025-12-25 17:57:12,221 - BasePage.py:[33] - [INFO] - Typing on an element : 'username_XPATH' value : deh
+2025-12-25 17:57:12,305 - BasePage.py:[33] - [INFO] - Typing on an element : 'password_XPATH' value : pa$$word
+2025-12-25 17:57:12,394 - BasePage.py:[23] - [INFO] - Clicking on an element : submit_XPATH
+2025-12-25 17:57:12,394 - test_SignUpTest.py:[24] - [INFO] - Successfully Signed Up
