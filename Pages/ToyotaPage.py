@@ -1,4 +1,8 @@
-class ToyotaPage:
+from Pages.BasePage import BasePage
+from Utilities import configReader
 
-    def __init__(self,driver):
+
+class ToyotaPage(BasePage):
+
+    def __init__(self, driver):
         super().__init__(driver)

@@ -41,3 +41,207 @@
 2025-12-25 22:24:58,297 - test_carewale.py:[17] - [INFO] - *************inside new car test******************
 2025-12-25 22:24:58,671 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
 2025-12-25 22:24:58,671 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 22:50:03,285 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:50:03,632 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 22:50:03,632 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 22:50:04,001 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:50:04,282 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 22:50:04,282 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 22:50:04,599 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:50:04,881 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 22:50:04,881 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 22:50:05,192 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:50:05,499 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 22:50:05,500 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 22:51:44,564 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:51:44,569 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:51:44,572 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:51:44,577 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:52:45,925 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:52:45,930 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:52:45,935 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:52:45,939 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:55:48,980 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:55:52,827 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:55:56,465 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:56:00,043 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:58:25,746 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:58:32,577 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:58:39,110 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:58:45,644 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 22:59:57,696 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:00:04,243 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:00:10,922 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:00:17,912 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:02:45,217 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:02:51,792 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:02:58,449 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:03:05,072 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:06:51,941 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:06:58,414 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:07:05,431 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:07:11,921 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:08:57,918 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:09:04,413 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:09:10,996 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:09:17,294 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:14:32,858 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:15:01,068 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:16:09,052 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:16:09,052 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:16:09,397 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:16:09,397 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:16:12,745 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:16:12,745 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:16:13,103 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:16:13,103 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:16:16,707 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:16:16,707 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:16:17,081 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:16:17,081 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:16:20,565 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:16:45,780 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:16:53,979 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:16:54,364 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:16:54,365 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:16:58,295 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:17:02,109 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:17:02,448 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:17:02,448 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:17:06,159 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:17:08,492 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:17:08,781 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:17:08,782 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:17:12,429 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:19:11,575 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:21:49,864 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:21:49,864 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:21:50,223 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:21:50,223 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:21:53,567 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:21:53,567 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:21:53,917 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:21:53,918 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:21:57,380 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:21:57,381 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:21:57,673 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:21:57,673 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:22:01,342 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:22:01,342 - test_carewale.py:[43] - [INFO] - ---------inside Select Cars test ['Hyundai']--------
+2025-12-25 23:22:01,670 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:22:01,670 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:22:16,113 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:22:16,113 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:22:16,473 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:22:16,474 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:22:20,139 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:22:20,140 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:22:20,470 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:22:20,470 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:22:23,942 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:22:23,942 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:22:24,270 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:22:24,270 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:22:28,026 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:22:28,027 - test_carewale.py:[43] - [INFO] - ---------inside Select Cars test ['Hyundai']--------
+2025-12-25 23:22:28,384 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:22:28,384 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:24:40,494 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:24:40,494 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:24:40,853 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:24:40,853 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:24:44,351 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:24:44,351 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:24:44,670 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:24:44,670 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:24:48,221 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:24:48,221 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:24:48,553 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:24:48,553 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:24:52,048 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:24:52,048 - test_carewale.py:[43] - [INFO] - ---------inside Select Cars test ['Hyundai']--------
+2025-12-25 23:24:52,403 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:24:52,403 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:28:46,579 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:28:46,579 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:28:46,924 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:28:46,924 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:28:50,569 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:28:50,569 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:28:50,922 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:28:50,922 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:28:52,146 - BasePage.py:[24] - [INFO] - Clicking on an element : skoda_XPATH
+2025-12-25 23:28:58,347 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:28:58,347 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:28:58,845 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:28:58,845 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:29:02,346 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:29:02,346 - test_carewale.py:[43] - [INFO] - ---------inside Select Cars test ['Hyundai']--------
+2025-12-25 23:29:02,688 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:29:02,688 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:33:40,215 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:33:40,218 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:33:40,574 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:33:40,575 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:33:44,147 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:33:44,149 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:33:44,508 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:33:44,508 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:33:48,139 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:33:48,140 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:33:48,476 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:33:48,476 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:34:07,151 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:34:07,154 - test_carewale.py:[43] - [INFO] - ---------inside Select Cars test ['Hyundai']--------
+2025-12-25 23:34:07,508 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:34:07,508 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:34:39,160 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:34:39,160 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:35:33,007 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:35:33,008 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:35:34,117 - BasePage.py:[26] - [INFO] - Clicking on an element : kia_XPATH
+2025-12-25 23:35:44,632 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:35:44,632 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:35:45,191 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:35:45,192 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:35:49,768 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:35:49,769 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:35:50,126 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:35:50,126 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:35:54,131 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:35:54,131 - test_carewale.py:[43] - [INFO] - ---------inside Select Cars test ['Hyundai']--------
+2025-12-25 23:35:54,464 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:35:54,464 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:50:58,881 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:50:58,882 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:50:59,252 - BasePage.py:[68] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:50:59,252 - BasePage.py:[31] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:51:02,882 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:51:02,882 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:51:03,239 - BasePage.py:[68] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:51:03,239 - BasePage.py:[31] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:51:07,008 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:51:07,008 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:51:07,366 - BasePage.py:[68] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:51:07,367 - BasePage.py:[31] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:51:16,257 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:51:16,258 - test_carewale.py:[43] - [INFO] - ---------inside Select Cars test ['Hyundai']--------
+2025-12-25 23:51:16,604 - BasePage.py:[68] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:51:16,604 - BasePage.py:[31] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:57:59,302 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:57:59,302 - test_carewale.py:[34] - [INFO] - ---------inside Select Cars test ['Kia']--------
+2025-12-25 23:57:59,637 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:57:59,637 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:58:03,299 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:58:03,300 - test_carewale.py:[37] - [INFO] - ---------inside Select Cars test ['Scoda']--------
+2025-12-25 23:58:03,654 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:58:03,654 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:58:07,303 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:58:07,303 - test_carewale.py:[40] - [INFO] - ---------inside Select Cars test ['Toyota']--------
+2025-12-25 23:58:07,621 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:58:07,621 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:58:11,188 - test_carewale.py:[28] - [INFO] - *************inside Select Cars test******************
+2025-12-25 23:58:11,188 - test_carewale.py:[43] - [INFO] - ---------inside Select Cars test ['Hyundai']--------
+2025-12-25 23:58:11,539 - BasePage.py:[63] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 23:58:11,539 - BasePage.py:[26] - [INFO] - Clicking on an element : find_new_cars
+2025-12-25 23:58:12,611 - BasePage.py:[26] - [INFO] - Clicking on an element : hyundai_XPATH

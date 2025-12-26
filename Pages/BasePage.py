@@ -1,11 +1,14 @@
+import time
+
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
+from selenium.webdriver.support.wait import WebDriverWait
 
 from Utilities import configReader
 import logging
 from Utilities.LogUtil import Logger
-
+from selenium.webdriver.support import expected_conditions as EC
 log = Logger(__name__,logging.INFO)
 
 
@@ -15,7 +18,11 @@ class BasePage:
 
     def click(self,locator):
         if str(locator).endswith("_XPATH"):
-            self.driver.find_element(By.XPATH,configReader.readConfig("locators",locator)).click()
+            #self.driver.find_element(By.XPATH,configReader.readConfig("locators",locator)).click()
+            xpath = configReader.readConfig("locators", locator)
+            WebDriverWait(self.driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, xpath))
+            ).click()
         elif str(locator).endswith("_CSS"):
             self.driver.find_element(By.CSS_SELECTOR, configReader.readConfig("locators", locator)).click()
         elif str(locator).endswith("_ID"):
@@ -59,3 +66,19 @@ class BasePage:
         action = ActionChains(self.driver)
         action.move_to_element(element).perform()
         log.logger.info("Moving to an an element : '" + str(locator))
+
+    def wait_for_element(self, locator):
+        WebDriverWait(self.driver, 10).until(
+            EC.visibility_of_element_located(self.get_locator(locator))
+        )
+
+    def get_locator(self, locator):
+        if str(locator).endswith("_XPATH"):
+            return (By.XPATH, configReader.readConfig("locators", locator))
+        elif str(locator).endswith("_CSS"):
+            return (By.CSS_SELECTOR, configReader.readConfig("locators", locator))
+        elif str(locator).endswith("_ID"):
+            return (By.ID, configReader.readConfig("locators", locator))
+        else:
+            raise Exception(f"Unsupported locator type: {locator}")
+

@@ -15,7 +15,7 @@ def pytest_runtest_makereport(item, call):
 
 
 #@pytest.fixture(params=["chrome","firefox"],scope="function")
-@pytest.fixture(params=["chrome"],scope="class")
+@pytest.fixture(params=["chrome"],scope="function")
 def get_browser(request):
 
     driver = webdriver.Chrome()
