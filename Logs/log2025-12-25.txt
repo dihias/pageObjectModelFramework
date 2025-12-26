@@ -26,3 +26,18 @@
 2025-12-25 17:57:12,305 - BasePage.py:[33] - [INFO] - Typing on an element : 'password_XPATH' value : pa$$word
 2025-12-25 17:57:12,394 - BasePage.py:[23] - [INFO] - Clicking on an element : submit_XPATH
 2025-12-25 17:57:12,394 - test_SignUpTest.py:[24] - [INFO] - Successfully Signed Up
+2025-12-25 18:02:24,493 - test_SignUpTest.py:[21] - [INFO] - Testing Sign Up
+2025-12-25 18:02:24,890 - BasePage.py:[33] - [INFO] - Typing on an element : 'name_CSS' value : didi
+2025-12-25 18:02:24,948 - BasePage.py:[33] - [INFO] - Typing on an element : 'phone_CSS' value : 567890866
+2025-12-25 18:02:25,008 - BasePage.py:[33] - [INFO] - Typing on an element : 'email_XPATH' value : didi@didi.com
+2025-12-25 18:02:25,126 - BasePage.py:[48] - [INFO] - Selecting from an element : 'country_XPATH' value : Canada
+2025-12-25 18:02:25,176 - BasePage.py:[33] - [INFO] - Typing on an element : 'city_XPATH' value : Montreal
+2025-12-25 18:02:25,226 - BasePage.py:[33] - [INFO] - Typing on an element : 'username_XPATH' value : deh
+2025-12-25 18:02:25,283 - BasePage.py:[33] - [INFO] - Typing on an element : 'password_XPATH' value : pa$$word
+2025-12-25 18:02:25,376 - BasePage.py:[23] - [INFO] - Clicking on an element : submit_XPATH
+2025-12-25 18:02:25,376 - test_SignUpTest.py:[24] - [INFO] - Successfully Signed Up
+2025-12-25 22:20:21,754 - test_SignUpTest.py:[14] - [INFO] - Testing Sign Up
+2025-12-25 22:22:00,821 - test_carewale.py:[17] - [INFO] - *************inside new car test******************
+2025-12-25 22:24:58,297 - test_carewale.py:[17] - [INFO] - *************inside new car test******************
+2025-12-25 22:24:58,671 - BasePage.py:[61] - [INFO] - Moving to an an element : 'new_cars_XPATH
+2025-12-25 22:24:58,671 - BasePage.py:[24] - [INFO] - Clicking on an element : find_new_cars

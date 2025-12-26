@@ -24,7 +24,7 @@ def get_browser(request):
     if request.param == "firefox":
         driver = webdriver.Firefox()
     request.cls.driver = driver
-    driver.get("https://www.way2automation.com/way2auto_jquery/index.php")#configReader.readConfig("basic_info","test_site_url"))
+    driver.get(configReader.readConfig("basic_info","test_site_url"))
     driver.maximize_window()
     yield driver
     driver.quit()

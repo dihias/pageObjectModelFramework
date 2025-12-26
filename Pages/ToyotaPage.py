@@ -1,0 +1,4 @@
+class ToyotaPage:
+
+    def __init__(self,driver):
+        super().__init__(driver)
