@@ -65,7 +65,7 @@ class BasePage:
 
         action = ActionChains(self.driver)
         action.move_to_element(element).perform()
-        log.logger.info("Moving to an an element : '" + str(locator))
+        log.logger.info("My oving to an an element : '" + str(locator))
 
     def wait_for_element(self, locator):
         WebDriverWait(self.driver, 10).until(
