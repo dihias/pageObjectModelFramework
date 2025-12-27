@@ -1,0 +1,25 @@
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Car brand is :  Honda
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Car Title is : Honda Cars
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Honda Amaze--------prices are : Rs. 7.45 Lakh
+Honda City--------prices are : Rs. 12.00 Lakh
+Honda Amaze 2nd Gen--------prices are : Rs. 7.01 Lakh
+Honda City Hybrid eHEV--------prices are : Rs. 19.53 Lakh
+Honda WR-V--------prices are : Language:Englishहिंदी

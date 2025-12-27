@@ -1,0 +1,34 @@
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Car brand is :  Hyundai
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Car Title is : Hyundai Cars
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Hyundai Creta--------prices are : Rs. 10.73 Lakh
+Hyundai Exter--------prices are : Rs. 5.68 Lakh
+Hyundai Grand i10 Nios--------prices are : Rs. 5.47 Lakh
+Hyundai i20--------prices are : Rs. 6.87 Lakh
+Hyundai Aura--------prices are : Rs. 5.98 Lakh
+Hyundai Verna--------prices are : Rs. 10.69 Lakh
+Hyundai Alcazar--------prices are : Rs. 14.47 Lakh
+Hyundai Creta Electric--------prices are : Rs. 18.02 Lakh
+Hyundai Venue N Line--------prices are : Rs. 10.55 Lakh
+Hyundai i20 N Line--------prices are : Rs. 9.14 Lakh
+Hyundai Tucson--------prices are : Rs. 27.32 Lakh
+Hyundai Creta N Line--------prices are : Rs. 17.83 Lakh
+Hyundai Ioniq 5--------prices are : Rs. 46.30 Lakh
+Hyundai Ioniq 5 Facelift--------prices are : Language:Englishहिंदी

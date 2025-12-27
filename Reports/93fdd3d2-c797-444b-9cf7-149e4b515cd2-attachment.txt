@@ -1,0 +1,32 @@
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Car brand is :  Toyota
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Car Title is : Toyota Cars
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Toyota Urban Cruiser Taisor--------prices are : Rs. 7.21 Lakh
+Toyota Glanza--------prices are : Rs. 6.39 Lakh
+Toyota Fortuner--------prices are : Rs. 33.64 Lakh
+Toyota Innova Hycross--------prices are : Rs. 18.86 Lakh
+Toyota Innova Crysta--------prices are : Rs. 18.66 Lakh
+Toyota Hilux--------prices are : Rs. 28.02 Lakh
+Toyota Camry--------prices are : Rs. 47.48 Lakh
+Toyota Fortuner Legender--------prices are : Rs. 41.54 Lakh
+Toyota Vellfire--------prices are : Rs. 1.20 Crore
+Toyota Land Cruiser--------prices are : Rs. 2.16 Crore
+Toyota Rumion--------prices are : Rs. 10.44 Lakh
+Toyota Urban Cruiser EV--------prices are : Language:Englishहिंदी

@@ -1,0 +1,2 @@
+INFO     TestCases.test_carewale:test_carewale.py:59 ******Inside Cars Names and prices Test*********
+INFO     Pages.BasePage:BasePage.py:68 Moving to an an element : 'new_cars_XPATH

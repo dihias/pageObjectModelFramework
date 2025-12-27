@@ -1,0 +1,4 @@
+[32mINFO    [0m TestCases.test_carewale:test_carewale.py:59 ******Inside Cars Names and prices Test*********
+[32mINFO    [0m Pages.BasePage:BasePage.py:68 Moving to an an element : 'new_cars_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:31 Clicking on an element : find_new_cars_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:31 Clicking on an element : toyota_XPATH

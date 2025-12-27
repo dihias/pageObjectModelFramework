@@ -1,0 +1,7 @@
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Car brand is :  BMW
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
+Reading config from: /home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/ConfigurationData/conf.ini
+Files read: ['/home/dihia/Documents/formations/auto_tests/pageObjectModelFramework/Utilities/../ConfigurationData/conf.ini']
